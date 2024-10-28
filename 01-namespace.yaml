@@ -5,3 +5,13 @@ metadata:
   labels:
     project: expense
     environment: dev
+
+
+
+# apiVersion: v1
+# kind: Namespace
+# metadata:
+#   name: expense
+#   labels:
+#     project: expense
+#     environment: dev
